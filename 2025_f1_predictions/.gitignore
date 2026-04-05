@@ -1,0 +1,33 @@
+# 🔐 Environment variables
+.env
+
+# 🐍 Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 📦 Virtual environments
+venv/
+.env/
+.venv/
+
+# 📊 FastF1 cache (VERY IMPORTANT)
+f1_cache/
+*.ff1pkl
+*.sqlite
+
+# 📁 Jupyter
+.ipynb_checkpoints/
+
+# 🧠 ML / Data files
+*.csv
+*.pkl
+*.joblib
+
+# 🖥️ VS Code
+.vscode/
+
+# 🐧 System files
+.DS_Store
+Thumbs.db
